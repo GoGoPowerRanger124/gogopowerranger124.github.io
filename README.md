@@ -1,6 +1,6 @@
 # IBSync
 
-[IBSync](gogopowerranger124.github.io) is a student-run productivity website designed to help students stay organized and on track with their school and personal responsibilities. The platform allows users to create and manage reminders for different tasks, choose specific times for notifications, and attach homework details or notes directly to each reminder.
+[IBSync](gogopowerranger124.github.io) iss a student-run productivity website designed to help students stay organized and on track with their school and personal responsibilities. The platform allows users to create and manage reminders for different tasks, choose specific times for notifications, and attach homework details or notes directly to each reminder.
 
 ## Purpose
 
